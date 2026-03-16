@@ -1,4 +1,8 @@
-**Decoding TBI Recovery: Unveiling the Promise of Blood-Based Biomarkers in Neural Repair **
+**Decoding TBI Recovery: Computational Modeling of Gene Expression Recovery After Traumatic Brain Injury** (2025-2026)
+This study looks to understand the rate of recovery
+
+
+**Decoding TBI Recovery: Unveiling the Promise of Blood-Based Biomarkers in Neural Repair** (2024-2025)
 
 This study investigates blood-based biomarkers as precise, non-invasive indicators for assessing recovery from Traumatic Brain Injury (TBI). Utilizing gene expression data from postmortem brain samples provided by Chancellor KB et al. (2020), mitochondrial genes (MT-ATP6, MT-ND1, MT-ND4, MT-CO3, MT-CYB, MT-ND3) and other relevant genes (SYT1, DPP10, RBFOX1, HBB) were identified as key indicators associated with neuroinflammation, synaptic repair, and cellular regeneration. Data analysis was performed using Python (pandas, numpy), with differential gene expression examined through visualizations such as heatmaps and bar charts. Future work involves validating these biomarkers in blood samples, expanding the dataset, and developing predictive models. For additional information or collaboration, please contact [your preferred contact method]. (Citation: Chancellor KB et al., 2020, GEO accession GSE155114).
 
