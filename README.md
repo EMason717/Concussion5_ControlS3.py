@@ -2,7 +2,8 @@
 
 This study develops a computational framework to model how gene expression biomarkers change throughout traumatic brain injury (TBI) recovery. Using previously identified genes (MT-ATP6, MT-ND1, MT-ND4, MT-CO3, MT-CYB, MT-ND3, SYT1, DPP10, RBFOX1, HBB), the project focuses on estimating the rate at which gene expression returns to baseline across recovery phases (acute, subacute, and chronic).
 
-Two models were created: one to calculate gene expression recovery rates and define an expected recovery trajectory, and another to compare individual patterns to this baseline in order to estimate recovery status. Analysis and visualizations were performed using Python.
+Two models were created: one to calculate gene expression recovery rates and define an expected recovery trajectory (Population Recovery Curve Model.py), and another to compare individual patterns to this baseline in order to estimate recovery status ()
+Analysis and visualizations were performed using Python.
 
 This work proposes a molecular approach for tracking recovery after TBI. Future work will focus on validating the model with longitudinal datasets and improving predictive accuracy.
 
